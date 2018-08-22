@@ -1,4 +1,4 @@
 # standardize
 Functions to manipulate data.
 
-This is the standardize readme. 
+This is the standardize package. 
