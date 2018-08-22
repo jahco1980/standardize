@@ -2,7 +2,7 @@
 #'
 #' Reverse returns a copy of a vector whose elements are in the reverse order.
 #'
-#' @param x
+#' @param x a numeric vector.
 #'
 #' @return a vector
 #' @export
